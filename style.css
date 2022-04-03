@@ -1,0 +1,14 @@
+body {
+  margin-top: 10%;
+  color: white;
+  text-align: center;
+  background-color: grey;
+
+}
+
+.outer-div {
+  display: flex;
+  justify-content: center;
+}
+
+
